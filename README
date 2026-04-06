@@ -21,3 +21,11 @@ git clone https://github.com/estevang12/cams-genai-replication-package.git
 ## 🔁 Reproducibility
 
 The examples provided in the `examples/` folder can be used to reproduce the results discussed in the paper.
+
+## Example Execution
+
+Run the pipeline:
+
+```bash
+cd code
+python pipeline.py
