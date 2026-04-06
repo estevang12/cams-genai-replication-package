@@ -29,3 +29,5 @@ Run the pipeline:
 ```bash
 cd code
 python pipeline.py
+Expected output:
+{'action': 'turn_on_lights'}
