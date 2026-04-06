@@ -9,7 +9,7 @@ def generate_model(input_data):
     return {"action": "none"}
 
 if __name__ == "__main__":
-    with open("../examples/smart_home_case/input_model.json") as f:
+    with open("../smart_home_case/input_model.json") as f:
         data = json.load(f)
     
     result = generate_model(data)
