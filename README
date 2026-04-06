@@ -31,3 +31,9 @@ cd code
 python pipeline.py
 Expected output:
 {'action': 'turn_on_lights'}
+
+## ▶️ Run Example
+
+```bash
+cd code
+python pipeline.py
