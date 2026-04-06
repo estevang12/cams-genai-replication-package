@@ -1,0 +1,16 @@
+CAMS+GenAI DSL Specification
+
+Entity: Context
+Attributes:
+- location
+- time
+- user_activity
+
+Entity: Action
+Attributes:
+- trigger
+- response
+
+Rule:
+IF context.location == "home" AND context.time == "night"
+THEN action.response = "turn_on_lights"
