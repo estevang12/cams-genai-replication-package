@@ -1,0 +1,23 @@
+# CAMS+GenAI Replication Package
+
+This repository contains the replication package for the paper:
+
+"CAMS+GenAI: A Generative DSL and MDD Pipeline for Context-Aware Mobile Systems"
+
+## 📁 Structure
+
+- `code/`: Implementation of the DSL and MDD pipeline
+- `data/`: Input datasets and configurations
+- `examples/`: Example use cases to reproduce results
+- `docs/`: Additional documentation
+
+## ▶️ How to Run
+
+1. Clone the repository:
+git clone https://github.com/estevang12/cams-genai-replication-package.git
+
+2. Navigate to the code folder and run the main script.
+
+## 🔁 Reproducibility
+
+The examples provided in the `examples/` folder can be used to reproduce the results discussed in the paper.
